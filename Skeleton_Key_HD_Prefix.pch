@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Skeleton Key HD' target in the 'Skeleton Key HD' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
